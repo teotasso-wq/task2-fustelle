@@ -1,0 +1,4 @@
+PyMuPDF>=1.24.0
+anthropic>=0.40.0
+gspread>=6.1.0
+google-auth>=2.30.0
